@@ -1,5 +1,5 @@
 README.md
-#Información Básica
+# Información Básica
 
 - Link del video:
 - Link de la presentación: 
