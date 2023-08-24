@@ -1,4 +1,4 @@
-README.md
+
 # Información Básica
 
 - Link del video:
