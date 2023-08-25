@@ -1,6 +1,12 @@
-# Propuesta de investigación
+# Entrega 1: Propuesta de proyecto y datos a trabajar 
 
-El aumento de mujeres en posiciones de poder en política en Latinoamérica entre 2000-2023.  
+Arlette Fernández-Victoria García-Alondra Henríquez 
+
+Hipótesis 
+
+“El aumento de mujeres en posiciones de poder en política en Latinoamérica entre 2000-2023" 
+
+# Antecedentes 
 
 Al día de hoy, la participación femenina en la política aún es marginada en todo el mundo. El primer país que obtuvo el sufragio femenino fue Nueva Zelanda, hace 120 años; tres décadas pasaron hasta que este derecho llegó a Latinoamérica. Si bien la mayoría de las mujeres ya pueden votar, siguen siendo minoría las que están en posiciones de poder, que son vitales para garantizar políticas, leyes y prácticas que erradiquen las diferentes formas de discriminación y violencia de género.  
 
@@ -10,9 +16,28 @@ Según datos de la ONU, a fecha de 1 de enero de 2023, el 11,3 por ciento de los
 
 Además, a fecha de 1 de enero de 2023, las mujeres representan el 22,8 por ciento de los ministros de Gabinete. Europa y América del Norte (31,6 por ciento) y América Latina y el Caribe (30,1 por ciento) son las regiones con la proporción más alta de mujeres en Gabinetes. 
 
-Los datos provendrán de instituciones gubernamentales, organismos internacionales, encuestas de opinión y estudios académicos. Incluirán información sobre elecciones, legislación, presupuestos asignados a políticas de género y datos demográficos. 
+Los datos provendrán de instituciones gubernamentales, organismos internacionales, encuestas de opinión y estudios académicos. Incluirán información sobre elecciones, legislación, presupuestos asignados a políticas de género y datos demográficos. Por ende, haremos uso de la recopilación de datos de carácter cuantitativo para reflejar el aumento de mujeres en posiciones de poder en Latinoamérica, comparando los números entre distintos países de la región, entre los años 2000 y 2023. 
 
-La propuesta surge de la necesidad de evaluar el progreso y los desafíos en la participación política de las mujeres en la Latinoamérica. La novedad radica en examinar cómo esta participación conduce a políticas concretas que aborden cuestiones de género y empoderamiento femenino. 
+Teniendo en cuenta estos antecedentes, nuestra propuesta de proyecto semestral surge de la necesidad de evaluar el progreso y los desafíos en la participación política de las mujeres en la Latinoamérica. La novedad radica en examinar cómo esta participación conduce a políticas concretas que aborden cuestiones de género y empoderamiento femenino. 
 
-Para esta investigación se realizará una recopilación de datos de carácter cuantitativo para reflejar el aumento de mujeres en posiciones de poder en Latinoamérica, comparando los números entre distintos países de la región, entre los años 2000 y 2023. 
+# Elementos digitales, datos y preguntas 
 
+El resultado mínimo previsible es establecer una correlación entre la participación de mujeres en la política y la implementación de políticas de género. El resultado máximo sería demostrar cómo estas políticas han mejorado sustancialmente la igualdad de género en Chile y el resto de Latinoamérica. 
+
+En cuanto al resultado máximo que esperamos sería narrar cómo la participación política de las mujeres transforma las estructuras de poder y produce un cambio social duradero. 
+
+Como grupo, nos gustaría poder lograr evaluar el progreso, desafíos en la participación política de las mujeres en el contexto chileno y latinoamericano, así como la concientización de una futura paridad más allá en el mundo de la política. 
+
+Por lo mismo y como se mencionó anteriormente, se requerirán datos sobre la representación de mujeres en cargos políticos, la aprobación de leyes y políticas de género, estadísticas de desigualdad de género y encuestas de opinión pública. 
+
+Sin embargo, es importante destacar que habrá ciertos datos detallados que serán difíciles de encontrar con precisión o con fechas recientes, por lo que estas se recopilarán a través de entrevistas con expertos políticos con enfoques de género y análisis de informes gubernamentales.     
+
+Por lo mismo, desarrollamos las siguientes preguntas para poder utilizar todos los datos recopilados hasta el momento, los cuales nos ayudarán a complementar, comprender y/o refutar nuestra hipótesis principal:  
+
+¿Existe una relación entre la cantidad de mujeres en cargos políticos y la promulgación de leyes de género?  
+
+¿Cómo percibe la población la participación política de las mujeres y su impacto en la equidad de género?  
+
+¿En qué medida las políticas de género han cambiado la vida de las mujeres en Chile y Latinoamérica? 
+
+Para nuestra investigación nos gustaría incorporar gráficos interactivos y visualizaciones que muestren la evolución de la representación política de mujeres y la implementación de políticas de género pueden ayudar a ilustrar el progreso y los desafíos de manera más efectiva.  
