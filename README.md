@@ -66,7 +66,8 @@ https://www.unwomen.org/es/what-we-do/leadership-and-political-participation/fac
 
 https://elpais.com/sociedad/2022-11-25/para-acabar-con-la-violencia-de-genero-necesitamos-mas-mujeres-en-posiciones-de-poder.html 
 
-
+LINK INFORMACIÓN SOLICITADA A ENTREGA 1 QUE NO SE PUDO SUBIR A GITHUB 
+https://uccl0-my.sharepoint.com/:w:/g/personal/arlette_fernandez_uc_cl/EeSsvJyO03dHjAwaM098rzQBHlDgzCQsVlbDXHA9_2_p6g?e=q88Jtj 
 
 
 
