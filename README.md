@@ -1,4 +1,5 @@
-Propuesta de investigación
+# Propuesta de investigación
+
 El aumento de mujeres en posiciones de poder en política en Latinoamérica entre 2000-2023.  
 
 Al día de hoy, la participación femenina en la política aún es marginada en todo el mundo. El primer país que obtuvo el sufragio femenino fue Nueva Zelanda, hace 120 años; tres décadas pasaron hasta que este derecho llegó a Latinoamérica. Si bien la mayoría de las mujeres ya pueden votar, siguen siendo minoría las que están en posiciones de poder, que son vitales para garantizar políticas, leyes y prácticas que erradiquen las diferentes formas de discriminación y violencia de género.  
