@@ -41,3 +41,32 @@ Por lo mismo, desarrollamos las siguientes preguntas para poder utilizar todos l
 ¿En qué medida las políticas de género han cambiado la vida de las mujeres en Chile y Latinoamérica? 
 
 Para nuestra investigación nos gustaría incorporar gráficos interactivos y visualizaciones que muestren la evolución de la representación política de mujeres y la implementación de políticas de género pueden ayudar a ilustrar el progreso y los desafíos de manera más efectiva.  
+
+# Bibliografía: 
+
+- DATOS CSV: https://data.oecd.org/inequality/women-in-politics.htm  
+
+https://data.worldbank.org/indicator/SG.GEN.PARL.ZS  
+
+https://data.ipu.org/women-ranking?month=8&year=2023 
+
+https://www.idea.int/data-tools/data/gender-quotas/country-view/176/35 
+
+- Archivos:  
+
+Tula, María Inés; Mujeres y Política: Un panorama sobre a adopción de las cuotas de género y sus efectos en América Latina y Colombia; Universidad Externado de Colombia; Ópera; 16; 16; 6-2015; 9-33  
+
+file:///C:/Users/alond/Downloads/women-in-politics-2023-es%20(1).pdf  
+
+https://www.estadisticasdegenero.cl/indicadores/poder-en-la-toma-de-decisiones/  
+
+https://www.sistemaspublicos.cl/proyecto/estudio-de-participacion-de-las-mujeres-en-el-sistema-de-alta-direccion-publica-sadp/  
+
+https://www.unwomen.org/es/what-we-do/leadership-and-political-participation/facts-and-figures  
+
+https://elpais.com/sociedad/2022-11-25/para-acabar-con-la-violencia-de-genero-necesitamos-mas-mujeres-en-posiciones-de-poder.html 
+
+
+
+
+
