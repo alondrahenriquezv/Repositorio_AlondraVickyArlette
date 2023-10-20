@@ -10,10 +10,10 @@ Nos pareció interesante la facilidad para observar y decidir íconos, también 
 
 2. Proyecciones: explica en detalle cómo planean integrar los elementos de la identidad visual en el wireframe. ¿Qué elementos de la identidad visual se pueden integrar en el wireframe de forma sencilla? ¿Qué elementos de la identidad visual serán desafiantes? ¿Por qué?
 
-En cuanto a proyecciones esperamos que sea la posibilidad de poner definitivamente Pueden integrar elementos de la identidad visual, como colores, tipografía, logotipos y gráficos, en el wireframe para dar una idea visual de cómo se verá el sitio web. Los colores y las fuentes suelen ser elementos sencillos de integrar, mientras que el logotipo y gráficos específicos pueden ser desafiantes si no se tienen disponibles o no se han diseñado aún.
+En cuanto a proyecciones esperamos que sea la posibilidad de poner definitivamente los elementos de la identidad visual, como colores, tipografía, logotipos y gráficos en el wireframe que iremos preparando más adelante para dar una idea visual de cómo se verá el sitio web. Los colores y las fuentes suelen ser elementos sencillos de integrar, mientras que el logotipo y gráficos específicos pueden ser desafiantes si no se tienen disponibles o no se han diseñado aún de manera definitiva.
 
 3. Limitaciones: qué desafíos u obstáculos han identificado ya para constuir la webstory. ¿Cómo planean superarlos? ¿Qué elementos de la identidad visual podrían ser limitantes? ¿Por qué? ¿qué estrategias proponen para superar tales limitaciones.
 
-Las limitaciones pueden incluir recursos limitados, como tiempo, pues cambiamos nuestro foco de tema de investigación así como la disponibilidad de contenido del equipo. Además, la falta de elementos de la identidad visual definidos puede ser una limitación.
+Las limitaciones pueden incluir recursos limitados, como tiempo, pues cambiamos nuestro foco de tema de investigación así como la disponibilidad de contenido del equipo. Además, la falta de elementos de la identidad visual definidos puede ser una limitación ya que puede que no estemos seguras de algun color en específico o también de querer volver a reestructurar nuestra sitio.
 
 
