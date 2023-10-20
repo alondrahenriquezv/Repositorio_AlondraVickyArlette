@@ -1,0 +1,3 @@
+Análisis Arlette.md
+
+Creo que nuestro mayor desafío en esta entrega fue el ajuste que debimos hacer a nuestra hipótesis, ya que era fundamental tener una hipótesis sólida para definir aspectos de usuario, gráficas y la interfaz de la web. Siento que logramos realizar un buen trabajo de perfilamiento de nuestro usuario y logramos utilizar herramientas para llegar a un prototipo de pagina web que sea interesante y atractivo para nuestro público objetivo.
