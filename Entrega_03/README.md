@@ -2,7 +2,7 @@ README.md
 
 A continuación adjuntamos todos los detalles de la entrega 03
 
-- Link a video presentación: 
+- Link a video presentación: https://www.youtube.com/watch?v=R1bucphs_s4 
 
 # Documentación del proceso:
 1. Perfilamiento de usuarios: en cuanto a nuestro perfilamento definimos tres en específico, las cuales distribuimos a través de user-personas.
