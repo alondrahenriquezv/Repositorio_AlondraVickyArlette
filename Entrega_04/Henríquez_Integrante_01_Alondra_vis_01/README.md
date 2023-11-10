@@ -7,7 +7,7 @@ Para esta entrega, decidí enfocarme en los datos de alcaldías electas. Por lo 
 ### Proceso 
 
 #### 1. Selección de Biblioteca:
-Matplotlib es una biblioteca de visualización de datos fundamental en Python. Se eligió Matplotlib para este ejemplo debido a su simplicidad y versatilidad, siendo ideal para gráficos básicos como el de pastel. 
+Matplotlib es una biblioteca de visualización de datos fundamental en Python. Escogí Matplotlib para esta entrega debido a su simplicidad y versatilidad, siendo ideal para gráficos básicos como el de pastel. 
 
 #### 2. Datos:
 Los datos utilizados en este ejemplo son la cantidad de alcaldes electos en Chile, desglosados por género (hombres y mujeres), junto con el total (suma de ambos).
@@ -23,9 +23,9 @@ El gráfico se personalizó con colores específicos para cada categoría y se a
 
 ### Base de Datos:
 
-No se utilizó un archivo CSV en este caso, ya que los datos fueron proporcionados directamente en el código al ser pocos. 
+No se utilizó el archivo CSV en este caso, ya que los datos fueron proporcionados directamente en el código al ser pocos. 
 
-### Ejemplos de Preguntas que Puede Responder la Visualización:
+### Ejemplos de preguntas que puede responder la visualización atómica:
 
 1. **¿Cuál es la proporción de alcaldes hombres y mujeres en Chile?**
 
