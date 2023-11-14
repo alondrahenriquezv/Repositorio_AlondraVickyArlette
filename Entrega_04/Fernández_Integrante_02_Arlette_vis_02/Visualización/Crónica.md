@@ -1,1 +1,3 @@
 # Crónica
+
+En las elecciones de Concejales en Chile en 2021, más de la mitad de los canidatos fueron hombres y, por consiguiente, de las personas electas como concejales, más de la mitad son hombres. En todas las regiones del país, a excepción de la Región Metropolitana, los hombres superaron a las mujeres como concejales electos, muchas veces triplicando el número con respecto a la cantidad de mujeres.
