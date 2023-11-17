@@ -9,4 +9,4 @@ Los datos seleccionados para la entrega y en relación a nuestro cambio de enfoq
 
 A continuación, adjuntamos nuestros enlaces:
 
-- Video de la presentación: 
+- Video de la presentación: https://uccl0-my.sharepoint.com/:v:/g/personal/vgarcu_uc_cl/EcaZaAXsUTBFisoOw-7verMB8YzhinERFECKHXqOkqu2xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=w7P2cx -lo subimos a onedrive ya que youtube no nos cargó el video- 
