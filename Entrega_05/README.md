@@ -8,9 +8,11 @@ Link del video presentación:
 
 Respecto al ponderador de autoría, cada una trabajó en lo siguiente: 
 
-Alondra: decisiones de elementos visuales- análisis de hipótesis, preguntas, titular reportaje
-Victoria: propuesta de diseño, información e interacción.
-Arlette: desarrollo de la página web
+- Alondra: decisiones de elementos visuales- análisis de hipótesis, preguntas, titular reportaje
+
+- Victoria: propuesta de diseño, información e interacción.
+
+- Arlette: desarrollo de la página web
 
 
-Todas: Desarrollo de las visualizaciones atómicas. 
+Todas: Desarrollo de las visualizaciones atómicas. Cada una buscó datos en específico. 
