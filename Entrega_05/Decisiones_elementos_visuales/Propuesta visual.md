@@ -1,4 +1,4 @@
-# Propuesta visual.md
+# Propuesta visual
 
 En lo que respecta a la propuesta visual destinada a la webstory, como se mencionó previamente en la Entrega_03, estará enfocada en un logotipo principal que servirá como identificador, y estará disponible en esta carpeta designada.
 
