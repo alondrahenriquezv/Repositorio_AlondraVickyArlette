@@ -1,4 +1,4 @@
-Análisis.md
+# Análisis.md
 
 La historia que buscamos contar se centra en el impacto de la creciente participación electoral de mujeres y jóvenes en la representación política local, específicamente en las alcaldías y concejalías de la Región Metropolitana en Chile. Nuestra hipótesis sugiere que este incremento en la participación podría estar impulsando un cambio significativo hacia una mayor inclusión de mujeres en estos roles.
 
