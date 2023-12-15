@@ -31,6 +31,23 @@
             text-align: center;
         }
 
+        .container-2 {
+            position: relative;
+            max-width: 500px;
+        }
+
+        .texto-superpuesto {
+            position: absolute;
+            top: 10px; /* Ajusta la posición vertical según tus necesidades */
+            left: 10px; /* Ajusta la posición horizontal según tus necesidades */
+            color: white; /* Color del texto */
+            font-size: 18px; /* Tamaño del texto */
+            font-weight: bold; /* Peso de la fuente, si es necesario */
+            background-color: rgba(0, 0, 0, 0.7); /* Fondo semi-transparente para mejorar la legibilidad */
+            padding: 10px; /* Espaciado interno del contenedor del texto */
+            margin-left: 700px;
+        }
+
         h1, p, .algunos-graficos {
             color: #000000;
             max-width: 800px;
@@ -54,21 +71,24 @@
             margin: 0;
         }
 
-        .alcaldes, .alcaldes-comparacion, .concejales-comparacion {
-            max-width: 100%;
-            margin: 20px auto;
-            text-align: center;
+
+
+        .embed-burbuja {
+            max-width: 100%; 
+            margin: 0 auto; 
+        }
+        .embed-candidatos {
+            max-width: 800%; 
+            margin-left: 20px; 
         }
 
-        .alcaldes {
-            height: 500px;
+        .texto-al-lado {
+            margin-left: 10px;
+            margin-top: 0px;
         }
 
-        .alcaldes-comparacion, .concejales-comparacion {
-            height: 40px;
-            margin-top: 30px;
-        }
 
+       
         footer {
             background-color: #6A0136;
             text-color: ##FF9B54;
@@ -97,37 +117,23 @@
 
     </div>
 
-    <div class="flourish-embed flourish-bubble-chart" data-src="visualisation/16140056"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+    <div class="flourish-embed flourish-bubble-chart embed-burbuja" data-src="visualisation/16140056"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/16120674"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+ <div class="container-2">
+
+        <div class="flourish-embed flourish-chart embed-candidatos" data-src="visualisation/16120674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+        <div class="texto-superpuesto"> KOMO STAMOS </div>
+
+    </div>
+
 
         <!-- ACA VA EL MAPA ORIGINALMENTE-->
-    </div>
 
-    <div class="algunos-graficos">
-        <h1>Algunos Gráficos</h1>
-    </div>
 
-    <div class="alcaldes">
-        <img src="alcaldes-por-año.jpeg" alt="alcaldes electos 2016-2021">
-    </div>
 
-    <div class="alcaldes-comparacion">
-        <img src="alcaldes-comparacion.jpeg" alt="alcaldes electos gráfico de barras">
-    </div>
-
-    <div class="concejales-comparacion">
-        <img src="concejales-comparacion.jpeg" alt="concejales electos gráfico de barras">
-    </div>
-
- <iframe src="<div class="flourish-embed flourish-countdown" data-src="visualisation/16139578"><script src="https://public.flourish.studio/resources/embed.js"></script></div>" width="600" height="400" frameborder="0" allowfullscreen></iframe>
-
-<div class="flourish-embed flourish-countdown" data-src="visualisation/16139578"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<footer>
-        <p>&copy; Creado por Arlette Fernández, Alondra Henríquez y Victoria García (Narración Gráfica de No Ficción 2-2023) </p>
-    </footer>
 
 </body>
 
@@ -145,3 +151,8 @@ AMARILLO: #FF9B54
 LETRAS
 Source Sans Pro (secundaria)
 Playfair Display (primaria)-->
+
+
+<footer>
+        <p>&copy; Creado por Arlette Fernández, Alondra Henríquez y Victoria García (Narración Gráfica de No Ficción 2-2023) </p>
+    </footer>
