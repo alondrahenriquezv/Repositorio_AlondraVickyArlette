@@ -32,23 +32,16 @@
         }
 
         .container-2 {
-            position: relative;
-            max-width: 500px;
+            background-color: #FF9B54;
+            border-radius: 10px;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 10px;
+            text-align: center;
         }
 
-        .texto-superpuesto {
-            position: absolute;
-            top: 10px; /* Ajusta la posición vertical según tus necesidades */
-            left: 10px; /* Ajusta la posición horizontal según tus necesidades */
-            color: white; /* Color del texto */
-            font-size: 18px; /* Tamaño del texto */
-            font-weight: bold; /* Peso de la fuente, si es necesario */
-            background-color: rgba(0, 0, 0, 0.7); /* Fondo semi-transparente para mejorar la legibilidad */
-            padding: 10px; /* Espaciado interno del contenedor del texto */
-            margin-left: 700px;
-        }
 
-        h1, p, .algunos-graficos {
+        h1, p, {
             color: #000000;
             max-width: 800px;
             margin: 20px auto;
@@ -57,12 +50,14 @@
 
         h1 {
             font-size: 28px;
-            color: #6A0136;
+            color: #DDDBF1;
         }
 
         p {
             font-size: 20px;
             color: #DDDBF1;
+            text-align: center;
+
         }
 
         img {
@@ -84,11 +79,14 @@
             margin: 0 auto; 
         }
         .embed-alcaldes-parlamento {
-            max-width: 300%; 
-            margin-left: 20px;
-            margin-bottom: 0 auto; 
-            margin-top: 0 auto;
+            max-width: 50%; 
+            margin: 0 auto;
         }
+
+        .embed-carrusel-alcaldes {
+            max-width: 100%; 
+            margin: 0 auto; 
+        }    
 
 
        
@@ -127,18 +125,25 @@
     <div class="flourish-embed flourish-bubble-chart embed-burbuja" data-src="visualisation/16140056"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
- <div class="container-2">
+    <div class="flourish-embed flourish-parliament embed-alcaldes-parlamento" data-src="visualisation/16153524"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-        <div class="flourish-embed flourish-parliament embed-alcaldes-parlamento" data-src="visualisation/16153524"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="container">
 
-        <div class="texto-superpuesto">  </div>
+     <h1> Desde el 2012, la cantidad de alcaldesas en la Región Metropolitana se duplicó. Selecciona una comuna y conoce a su alcaldesa electa en la última elección en el 2021.</h1>
 
     </div>
 
+    <div class="flourish-embed flourish-cards embed-carrusel-alcaldes" data-src="visualisation/16150964"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<p> Hola a todos, espero que esto este bien </p> 
 
         <!-- ACA VA EL MAPA ORIGINALMENTE-->
 
+<footer> 
 
+        <p>&copy; Creado por Arlette Fernández, Alondra Henríquez y Victoria García (Narración Gráfica de No Ficción 2-2023) </p> 
+
+    </footer> 
 
 
 </body>
