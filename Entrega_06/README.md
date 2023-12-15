@@ -26,7 +26,7 @@ Arlette: Concejales electos 2012-2021, Votos de mujeres entre 18 y 39 años, pá
 Vicky: Casos excepcionales (Alcaldesas de Peñalolén y La Pintana), Algunas concejalas electas 2021.
 
 
-LINK A REPOSITORIO DE PÁGINA
+LINK A PÁGINA WEB
 
-https://github.com/Arlette002/voces-en-acci-n 
+https://arlette002.github.io/voces-en-acci-n/
 
