@@ -9,3 +9,7 @@ Alondra: Candidatos a alcaldes, Alcaldes electos 2012-2021, Alcaldesas electas 2
 Arlette: Concejales electos 2012-2021, Votos de mujeres entre 18 y 39 años, página web.
 
 Vicky: Casos excepcionales (Alcaldesas de Peñalolén y La Pintana), Algunas concejalas electas 2021.
+
+# LINK A REPOSITORIO DE PÁGINA
+
+https://github.com/Arlette002/voces-en-acci-n 
